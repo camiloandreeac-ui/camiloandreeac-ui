@@ -54,8 +54,6 @@ Driven by curiosity, continuous learning, and the goal of turning ideas into wor
 ### 📬 &nbsp;Contact
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **camilo.munoz.dev@gmail.com**  
-🧠 _AI Technical Assistant: ChatGPT (GPT-5)_
-
 ---
 
 <p align="center">
